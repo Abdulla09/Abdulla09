@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulla</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Vehicle Accident Detection**
+- 🔭 I’m currently working on **Vehicle Accident Detection and Invoice builder**
 
 - 🌱 I’m currently learning **Javascript, React, Nodejs**
 
